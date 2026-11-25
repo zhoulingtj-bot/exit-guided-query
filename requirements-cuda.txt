@@ -1,0 +1,10 @@
+-r requirements.txt
+scipy==1.17.1
+scikit-learn==1.6.1
+huggingface-hub==0.34.0
+einops==0.8.1
+typing-extensions==4.15.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+requests==2.32.3
+tabpfn @ git+https://github.com/PriorLabs/TabPFN.git@9b8f498fef327548c51c17edb747f705fc7dcaac

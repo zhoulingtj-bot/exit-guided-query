@@ -1,0 +1,28 @@
+{
+  "kit_manifest_sha256": "f1a8bb054c2a002247e940c8a8b947b2a39572277d69c5277da140038ffbda2f",
+  "weights_sha256": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736",
+  "program_sha256": {
+    "补查复算与统一计时.py": "3cbc85ad2c441a2fc0e1517f81e2626022c9f966deaf11264e400c51add8d783",
+    "archived_compare.py": "2287f533c238091f6f75e3544e9f68dee735dfca4d9ea79147ebe2868ba9b8fe",
+    "search.py": "d04a3bd97079755d3cd269ed812f5a281c1896f4e45ed86d3e8051a91a7398a9",
+    "protocol.json": "2494044c99c83d284026f696321c8ff2288edb7bf8bccb716a7b3bc849235151"
+  },
+  "repeats": 3,
+  "python": "3.12.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch": "2.11.0+cu128",
+  "cuda": "12.8",
+  "gpu": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+  "tabpfn": "2.0.9",
+  "dependency_versions": {
+    "numpy": "1.26.4",
+    "pandas": "2.2.3",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.6.1",
+    "huggingface-hub": "0.34.0",
+    "einops": "0.8.1",
+    "typing_extensions": "4.15.0",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.6.0"
+  }
+}
